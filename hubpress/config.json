@@ -6,12 +6,12 @@
     "cname": "eajr.tech"
   },
   "theme": {
-    "name": "saga"
+    "name": "uno-zen"
   },
   "urls": {
     "site": "http://eajr.tech",
     "hubpress": "https://eajr.tech",
-    "theme": "//eajr.tech/themes/uno",
+    "theme": "//eajr.tech/themes/saga",
     "images": "http://eajr.tech/images"
   },
   "initialisationConfigComponent": {
