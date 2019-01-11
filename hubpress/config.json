@@ -6,7 +6,7 @@
     "cname": "eajr.tech"
   },
   "theme": {
-    "name": "the-shell"
+    "name": "ghostium"
   },
   "urls": {
     "site": "http://eajr.tech",
@@ -33,7 +33,7 @@
     "title": "Reflections",
     "description": "by eajr",
     "logo": "https://avatars3.githubusercontent.com/u/43855019?s=400&u=eb466c7cc417b684b2ddb7b5d816d7f6b0c7b7cd&v=4",
-    "cover": "https://avatars3.githubusercontent.com/u/43855019?s=400&u=eb466c7cc417b684b2ddb7b5d816d7f6b0c7b7cd&v=4",
+    "cover": "",
     "delay": "",
     "postsPerPage": "3",
     "blogPath": "",
