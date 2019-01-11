@@ -6,12 +6,12 @@
     "cname": "eajr.tech"
   },
   "theme": {
-    "name": "ghostium"
+    "name": "roon"
   },
   "urls": {
     "site": "http://eajr.tech",
     "hubpress": "https://eajr.tech",
-    "theme": "//eajr.tech/themes/the-shell",
+    "theme": "//eajr.tech/themes/ghostium",
     "images": "http://eajr.tech/images"
   },
   "initialisationConfigComponent": {
