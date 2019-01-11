@@ -11,7 +11,7 @@
   "urls": {
     "site": "http://eajr.tech",
     "hubpress": "https://gallant-kalam-66a099.netlify.com",
-    "theme": "//eajr.tech/themes/casper",
+    "theme": "//eajr.tech/themes/uno",
     "images": "http://eajr.tech/images"
   },
   "initialisationConfigComponent": {
@@ -42,7 +42,7 @@
   },
   "socialnetwork": {
     "email": "",
-    "github": "",
+    "github": "eajr",
     "twitter": "",
     "facebook": "",
     "googleplus": "",
