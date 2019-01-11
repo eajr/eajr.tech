@@ -11,7 +11,7 @@
   "urls": {
     "site": "http://eajr.tech",
     "hubpress": "https://eajr.tech",
-    "theme": "//eajr.tech/themes/uno-zen",
+    "theme": "//eajr.tech/themes/the-shell",
     "images": "http://eajr.tech/images"
   },
   "initialisationConfigComponent": {
@@ -32,7 +32,7 @@
   "site": {
     "title": "Reflections",
     "description": "by eajr",
-    "logo": "",
+    "logo": "https://avatars3.githubusercontent.com/u/43855019?s=400&u=eb466c7cc417b684b2ddb7b5d816d7f6b0c7b7cd&v=4",
     "cover": "",
     "delay": "",
     "postsPerPage": "3",
