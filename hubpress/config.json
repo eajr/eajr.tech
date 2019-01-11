@@ -1,10 +1,32 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "master"
+    "username": "eajr",
+    "repositoryName": "eajr.tech",
+    "branch": "master",
+    "cname": "eajr.tech"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "http://eajr.tech",
+    "hubpress": "https://gallant-kalam-66a099.netlify.com",
+    "theme": "//eajr.tech/themes/casper",
+    "images": "http://eajr.tech/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ],
+    "_Ctor": {}
   }
 }
