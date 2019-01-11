@@ -6,12 +6,12 @@
     "cname": "eajr.tech"
   },
   "theme": {
-    "name": "uno-zen"
+    "name": "the-shell"
   },
   "urls": {
     "site": "http://eajr.tech",
     "hubpress": "https://eajr.tech",
-    "theme": "//eajr.tech/themes/saga",
+    "theme": "//eajr.tech/themes/uno-zen",
     "images": "http://eajr.tech/images"
   },
   "initialisationConfigComponent": {
