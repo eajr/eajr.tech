@@ -6,12 +6,12 @@
     "cname": "eajr.tech"
   },
   "theme": {
-    "name": "ichi"
+    "name": "uno"
   },
   "urls": {
     "site": "http://eajr.tech",
     "hubpress": "https://eajr.tech",
-    "theme": "//eajr.tech/themes/roon",
+    "theme": "//eajr.tech/themes/ichi",
     "images": "http://eajr.tech/images"
   },
   "initialisationConfigComponent": {
